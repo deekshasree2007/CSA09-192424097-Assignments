@@ -1,0 +1,6 @@
+Operation,ArrayList_ns,LinkedList_ns,ArrayDeque_ns
+Add 10000 Elements,812000,793200,875900
+Insert First,63000,5700,2100
+Access Middle,2600,51200,Not Supported
+Remove First,5600,2000,1500
+Iteration,900500,932800,870400
