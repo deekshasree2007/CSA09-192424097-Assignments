@@ -1,2 +1,0 @@
-Java Resource Management
-Try-with-resources example
